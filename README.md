@@ -141,8 +141,6 @@ Saved as `trainingprogress.png`.
 
 **Catalin Botezat**  
 NYU Abu Dhabi – Mathematics and Computer Science  
-Assignment: Homework 2, Part 3 – Distributed Deep Learning Performance  
-
 ***
 
 ## License
