@@ -2,7 +2,6 @@
 
 
 
-Here is a complete `README.md` file for the provided notebook project:
 
 ***
 
